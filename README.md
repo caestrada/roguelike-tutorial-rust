@@ -26,6 +26,9 @@ $ cargo build
 ```shell
 # Running the executable
 $ cargo run
+
+# Build artifacts in release mode, with optimizations
+cargo run --release
 ```
 
 ```shell
